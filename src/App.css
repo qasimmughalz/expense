@@ -1,0 +1,27 @@
+.main{
+  margin-top: 7% !important;
+  background-color: #fff;
+}
+
+p{
+  margin-bottom: 0px;
+}
+
+
+.list-card {
+  padding: 5px;
+  border: 1px solid #eee;
+}
+
+.relative{
+  position: relative;
+}
+.delete-btn{
+  position: absolute;
+  left: -16px;
+}
+
+.edit-btn{
+  position: absolute;
+  right: -37px;
+}
